@@ -1,3 +1,7 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3e3cddf6-d58d-4442-ab32-d63669612c06" />
+
+
+
 # 🎨 Asian Paints – Sales & Performance Analytics Dashboard
 
 ## 📊 Project Overview
